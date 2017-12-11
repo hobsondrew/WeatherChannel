@@ -4,10 +4,10 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+December 10, 2017
 
 ### Student Name:  
-(First and Last Name)
+Drew Hobson
 
 ### Project Description:
 (In your own words, briefly describe the assignment.)
